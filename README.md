@@ -1,5 +1,6 @@
 # Polynomial Calculator
-Author : NYEMB NDJEM EONE ANDRE KEVIN
+Author  : NYEMB NDJEM EONE ANDRE KEVIN
+email   : ndjemeone@gmail.com
 
 # Description
 This is an object oriented design of a polynomial calculator implementing usual polynomial operations
@@ -13,5 +14,14 @@ This is an object oriented design of a polynomial calculator implementing usual 
 - Support all usual arithmetic operations on polynomials: exponentiation, multiplication, division, addition, substraction.
 
 # Running the application
+# GUI
 On the terminal and parent directory execute : 
 python launch.py
+# Kernel
+To use our defined functions, go to the assets directory in the folder.
+You will see:
+- The Tokenizer
+- The Parser
+- The evaluate function
+- The rest to be discovered on interest
+
