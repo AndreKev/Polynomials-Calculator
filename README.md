@@ -1,7 +1,3 @@
-# Polynomial Calculator
-Author  : NYEMB NDJEM EONE ANDRE KEVIN
-email   : ndjemeone@gmail.com
-
 # Description
 This is an object oriented design of a polynomial calculator implementing usual polynomial operations
 
@@ -25,3 +21,6 @@ You will see:
 - The evaluate function
 - The rest to be discovered on interest
 
+# Polynomial Calculator
+Author  : NYEMB NDJEM EONE ANDRE KEVIN
+email   : ndjemeone@gmail.com
