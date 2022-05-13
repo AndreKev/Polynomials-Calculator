@@ -12,7 +12,9 @@ This is an object oriented design of a polynomial calculator implementing usual 
 # Running the application
 # GUI
 On the terminal and parent directory execute : 
+```
 python launch.py
+```
 # Kernel
 To use our defined functions, go to the assets directory in the folder.
 You will see:
